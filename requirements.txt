@@ -1,0 +1,5 @@
+python==3.9
+pytorch==1.12.1+cu113
+transformers==4.26.1
+datasets==2.9.0
+diffusers==0.12.1
